@@ -1,0 +1,120 @@
+@font-face {
+    src: url(./Inter-V.ttf) format('truetype');
+}
+
+@font-face {
+    src: url(./Inter-Black.otf);
+    font-family: 'Inter black';
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(./Inter-BlackItalic.otf);
+    font-family: 'Inter black';
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-Bold.otf);
+    font-family: 'Inter black';
+    font-weight: bold;
+}
+
+@font-face {
+    src: url(./Inter-BoldItalic.otf);
+    font-family: 'Inter black';
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-ExtraBold.otf);
+    font-family: 'Inter black';
+    font-weight: 800;
+}
+
+@font-face {
+    src: url(./Inter-ExtraBoldItalic.otf);
+    font-family: 'Inter black';
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-ExtraLight.otf);
+    font-family: "Inter black";
+    font-weight: 200;
+}
+
+@font-face {
+    src: url(./Inter-ExtraLightItalic.otf);
+    font-family: 'Inter black';
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-Italic.otf);
+    font-family: 'Inter black';
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-Light.otf);
+    font-family: 'Inter black';
+    font-weight: 300;
+}
+
+@font-face {
+    src: url(./Inter-LightItalic.otf);
+    font-family: 'Inter black';
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-Medium.otf);
+    font-family: 'Inter black';
+    font-weight: 500;
+}
+
+@font-face {
+    src: url(./Inter-MediumItalic.otf);
+    font-family: 'Inter black';
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-Regular.otf);
+    font-family: 'Inter black';
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(./Inter-SemiBold.otf);
+    font-family: 'Inter black';
+    font-weight: 600;
+}
+
+@font-face {
+    src: url(./Inter-SemiBoldItalic.otf);
+    font-family: 'Inter black';
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    src: url(./Inter-Thin.otf);
+    font-family: 'Inter black';
+    font-weight: 100;
+}
+
+@font-face {
+    src: url(./Inter-ThinItalic.otf);
+    font-family: 'Inter black';
+    font-weight: 100;
+    font-style: italic;
+}
