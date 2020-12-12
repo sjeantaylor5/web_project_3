@@ -1,4 +1,14 @@
 @import url(./__title/intro__title.css);
+@import url(./__subtitle/intro__subtitle.css);
 @import url(./__text/intro__text.css);
 @import url(./__span/intro__span.css);
 @import url(./__list/intro__list.css);
+
+.intro {
+    max-width: 55%;
+    margin-top: 92px;
+    margin-bottom: 92px;
+    margin-left: 10%;
+    padding: 0;
+    border: 1px solid red;
+}
