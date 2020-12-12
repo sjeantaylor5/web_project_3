@@ -1,4 +1,5 @@
-@import url(../fonts/Inter-Desktop/fonts.css);
+@import url(../fonts/fonts.css);
+@import url(../vendor/normalize.css);
 
 .page {
     background-color: #2A2C2F;
