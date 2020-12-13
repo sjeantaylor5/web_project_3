@@ -5,3 +5,7 @@
     margin: 0 0 48px 0;
     padding: 0;
 }
+
+.states__link:hover {
+    opacity: 0.8;
+}
