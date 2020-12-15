@@ -29,3 +29,9 @@
         margin: 89px auto 88px auto;
     }    
 }
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .cover {
+        margin: 65px auto 64px auto;
+    }  
+}

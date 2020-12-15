@@ -11,3 +11,14 @@
 .footer__link:hover {
     opacity: 0.5;
 }
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .footer__link {
+       display: block;
+       margin-bottom: 32px;
+   }  
+
+    .footer__link:last-child {
+       margin-bottom: 48px;
+   }
+}

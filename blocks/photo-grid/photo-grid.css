@@ -24,3 +24,13 @@
         margin-bottom: 88px;
     }
 }
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .photo-grid {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 12px;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-bottom: 64px;
+    }
+}

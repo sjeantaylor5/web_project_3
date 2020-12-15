@@ -7,3 +7,9 @@
 .header__lang-link-en:hover {
     opacity: 0.6;
 }
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .header__lang-link-en {
+        font-size: 18px;
+    }    
+}
