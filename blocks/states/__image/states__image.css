@@ -1,5 +1,11 @@
 .states__image {
-    width: calc(100vw/3);
+    max-width: calc(100vw/3);
     padding: 0;
     margin: 0;
+}
+
+@media screen and (max-width: 1279px) and (min-width: 1024px) {
+    .states__image {
+        max-width: calc(100vw/2.25);
+    }
 }
