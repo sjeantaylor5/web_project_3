@@ -5,3 +5,9 @@
     margin: 0;
     padding: 34px 48px 24px 48px;
 }
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    .page {
+        padding: 34px 0 24px 0;
+    }
+}
