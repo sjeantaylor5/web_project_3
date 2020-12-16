@@ -4,7 +4,7 @@
 @import url(./__title/lead__title.css);
 
 .lead {
-    max-width: 80%;
+    padding: 0 148px;
     margin: 58px auto 0 auto;
 }
 

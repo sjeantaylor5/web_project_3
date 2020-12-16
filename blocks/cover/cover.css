@@ -10,27 +10,26 @@
     justify-content: center;
     object-fit: cover;
     margin: 92px auto 92px auto;
-    padding: 0;
+    padding: 0 48px;
 }
 
 .cover:hover {
     opacity: 0.8;
 }
 
-@media screen and (max-width: 1279px) and (min-width: 1024px) {
+@media screen and (max-width: 1280px) and (min-width: 1024px) {
     .cover {
-        width: 100vw;
-        margin-left: -48px;
+        max-width: 100%;
     }
 }
 
-@media screen and (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 1024px) and (min-width: 768px) {
     .cover {
         margin: 89px auto 88px auto;
     }    
 }
 
-@media screen and (max-width: 767px) and (min-width: 320px) {
+@media screen and (max-width: 768px) and (min-width: 320px) {
     .cover {
         margin: 65px auto 64px auto;
     }  
