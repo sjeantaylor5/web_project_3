@@ -18,7 +18,8 @@
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .states { 
-        display: inline;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
         margin-bottom: 49px;
     }
 }
