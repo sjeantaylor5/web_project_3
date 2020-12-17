@@ -6,13 +6,13 @@
     padding: 0;
 }
 
-@media screen and (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 1023px) {
     .states__title {
         font-size: 42px;
     }
 }
 
-@media screen and (max-width: 767px) and (min-width: 320px) {
+@media screen and (max-width: 767px) {
     .states__title {
         font-size: 32px;
         margin-left: 16px;
