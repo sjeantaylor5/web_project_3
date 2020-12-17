@@ -10,6 +10,8 @@
     object-fit: cover;
     margin: 92px auto 92px auto;
     padding: 0 48px;
+    opacity: 1;
+    transition: opacity 1s linear 0s;
 }
 
 .cover:hover {

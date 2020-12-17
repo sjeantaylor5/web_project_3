@@ -6,12 +6,6 @@
     padding: 34px 0 24px 0;
 }
 
-@media screen and (max-width: 1023px) {
-    .page {
-        padding: 34px 0 24px 0;
-    }
-}
-
 @media screen and (max-width: 767px) {
     .page {
         padding: 20px 0 24px 0;

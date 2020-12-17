@@ -2,7 +2,7 @@
 @import url(./__links/footer__links.css);
 @import url(./__link/footer__link.css);
 .footer {
-    max-width: 1280px;
+    max-width: calc(1280px - (48px*2));
     margin: 0 auto;
     padding: 0 48px;
     display: flex;
