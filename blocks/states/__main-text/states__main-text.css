@@ -2,3 +2,9 @@
     padding: 0;
     margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .states__main-text {
+        margin-left: 16px;
+    }
+}
